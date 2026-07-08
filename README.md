@@ -172,32 +172,6 @@ Real-Time Fraud Detection Platform
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Dhairya-Bhansali&theme=tokyonight&show_icons=true&hide_border=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Dhairya-Bhansali&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhairya-Bhansali&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Dhairya-Bhansali&theme=onedark&no-frame=true)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Dhairya-Bhansali&theme=tokyo-night)
-
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Dhairya-Bhansali&style=for-the-badge)
-
 ---
 
 ## 💡 Quote
