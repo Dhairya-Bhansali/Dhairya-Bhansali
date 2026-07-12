@@ -888,59 +888,8 @@ src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/gi
 
 ---
 
-# 📌 Featured Repositories
 
-<table>
 
-<tr>
-
-<td width="50%">
-
-<a href=https://github.com/Dhairya-Bhansali/hmis-healthcare-analytics-dashboard>/HMIS">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=HMIS&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</td>
-
-<td width="50%">
-
-<a href=>/RiskGuard">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=RiskGuard&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<a href="https://github.com/<your-username>/SevaLink-AI">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=SevaLink-AI&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</td>
-
-<td width="50%">
-
-<a href="https://github.com/<your-username>">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=<another-project>&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
