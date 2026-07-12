@@ -856,11 +856,8 @@ Kubernetes             ████░░░░░░░░░░░░░░░
 # 📈 Contribution Activity
 
 <p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&theme=tokyo-night&hide_border=true&area=true"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhairyabhansali&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
-
 ---
 
 # 🐍 Contribution Snake
