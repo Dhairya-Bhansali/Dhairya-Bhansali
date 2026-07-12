@@ -383,8 +383,13 @@ The platform provides intelligent disease surveillance, outbreak prediction, hos
 ---
 
 ### 🔗 Repository
+<p align="center">
 
-> Coming Soon
+<a href="https://github.com/Dhairya-Bhansali/hmis-healthcare-analytics-dashboard">
+<img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 </details>
 
@@ -478,10 +483,16 @@ React / Next.js Dashboard
 ✔ Real-time situational awareness
 
 ---
-
 ### 🔗 Repository
 
-> Coming Soon
+<p align="center">
+
+<a href="https://github.com/Dhairya-Bhansali/SevaLink-AI-Smart-Resource-Allocation-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhairya-Bhansali&repo=SevaLink-AI-Smart-Resource-Allocation-System&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</p>
 
 </details>
 
@@ -575,7 +586,13 @@ Next.js Dashboard
 
 ### 🔗 Repository
 
-> Coming Soon
+<p align="center">
+
+<a href="https://github.com/Dhairya-Bhansali/riskguard-fraud-detection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhairya-Bhansali&repo=riskguard-fraud-detection&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
 
 </details>
 
