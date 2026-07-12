@@ -915,18 +915,6 @@ src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/gi
 
 ---
 
-# ⚡ GitHub Highlights
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=<your-username>&label=Profile+Views&style=for-the-badge&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/followers/<your-username>?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/<your-username>?style=for-the-badge&logo=github"/>
-
-</p>
-
 ---
 
 # 📌 Featured Repositories
