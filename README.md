@@ -896,7 +896,7 @@ src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/gi
 
 <td width="50%">
 
-<a href="https://github.com/<your-username>/HMIS">
+<a href=https://github.com/Dhairya-Bhansali/hmis-healthcare-analytics-dashboard>/HMIS">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=HMIS&theme=tokyonight&hide_border=true"/>
 
@@ -906,7 +906,7 @@ src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/gi
 
 <td width="50%">
 
-<a href="https://github.com/<your-username>/RiskGuard">
+<a href=>/RiskGuard">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=RiskGuard&theme=tokyonight&hide_border=true"/>
 
