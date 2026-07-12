@@ -32,17 +32,7 @@ Software Engineer • Backend Developer • AI/ML Engineer • Full Stack Develo
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=<your-username>&style=for-the-badge&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/followers/<your-username>?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/<your-username>?style=for-the-badge&logo=github"/>
-
-</p>
 
 ---
 
@@ -102,12 +92,6 @@ Currently, I'm focused on strengthening my understanding of software engineering
 <!-- ===================================================== -->
 
 # 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark"/>
-
-</p>
 
 ### Languages
 
