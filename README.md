@@ -886,13 +886,6 @@ src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/gi
 
 ---
 
----
-
-
-
-
----
-
 # 📅 Coding Activity
 
 ```text
