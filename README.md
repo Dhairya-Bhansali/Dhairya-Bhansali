@@ -386,7 +386,6 @@ The platform provides intelligent disease surveillance, outbreak prediction, hos
 <p align="center">
 
 <a href="https://github.com/Dhairya-Bhansali/hmis-healthcare-analytics-dashboard">
-<img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
 </a>
 
@@ -489,7 +488,6 @@ React / Next.js Dashboard
 <p align="center">
 
 <a href="https://github.com/Dhairya-Bhansali/SevaLink-AI-Smart-Resource-Allocation-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhairya-Bhansali&repo=SevaLink-AI-Smart-Resource-Allocation-System&theme=tokyonight&hide_border=true"/>
 <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
 
 </a>
@@ -592,7 +590,6 @@ Next.js Dashboard
 
 <a href="https://github.com/Dhairya-Bhansali/riskguard-fraud-detection">
 <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhairya-Bhansali&repo=riskguard-fraud-detection&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
