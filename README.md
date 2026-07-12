@@ -724,18 +724,6 @@ Docker
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/<your-username>/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/<your-username>">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/<your-username>">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -864,23 +852,6 @@ Kubernetes             ████░░░░░░░░░░░░░░░
 <!--                GITHUB ANALYTICS                       -->
 <!-- ===================================================== -->
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=<your-username>&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📈 Contribution Activity
 
